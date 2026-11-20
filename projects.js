@@ -1,10 +1,10 @@
 
 const projects = [
   {
-    title: "Project 01",
-    description: "My first website project.",
-    image: "images/project-01.jpg",
-    link: "https://your-website-link.com"
+    title: "Yadav Restaurent",
+    description: "Yadav Restaurant.",
+    image: "yadavres.jpg",
+    link: "https://yadav-restaurentt.onrender.com"
   },
   {
     title: "Project 02",
